@@ -6,7 +6,7 @@
     $ npm install
     $ npm start
 
-# How to run Front-end:
+# How to install and run Front-end:
     $ cd path/to/<project>/client
     $ npm install
     $ npm start
